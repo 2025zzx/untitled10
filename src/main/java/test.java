@@ -8,5 +8,6 @@ public class test {
         System.out.println("haha");
         System.out.println("hello");
         System.out.println("haha");
+        System.out.println("苍天已死，黄天当立，岁在甲子天下大吉");
     }
 }
