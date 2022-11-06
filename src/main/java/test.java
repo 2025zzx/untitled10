@@ -5,5 +5,6 @@
 public class test {
     public void sqy(){
         System.out.println("hello");
+        System.out.println("haha");
     }
 }
